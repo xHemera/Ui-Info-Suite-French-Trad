@@ -1,5 +1,5 @@
 # Ui-Info-Suite-French-Trad
-Ui Info Suite French Traduction for stardew valley
+French translation for Stardew Valley mod, Ui Info Suite
 
 Pour installer la traduction :
 
